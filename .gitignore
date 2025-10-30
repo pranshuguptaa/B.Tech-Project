@@ -31,9 +31,9 @@ ENV/
 *.swo
 
 # Data files
-*.npy
-*.log
-*.dat
+# *.npy
+# *.log
+# *.dat
 
 # System Files
 .DS_Store
