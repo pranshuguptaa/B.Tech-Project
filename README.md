@@ -1,14 +1,14 @@
-Overview
+Overview:
 
 This project detects human emotions and stress levels using both facial and audio inputs. It combines the outputs of two models through late fusion to produce a final prediction.
 
-Models Used
+Models Used:
 
 Facial Emotion Detection: YOLOv11n
 
 Audio Emotion Detection: Custom CNN (saved in .h5 format)
 
-Method
+Method:
 
 Facial expressions are analyzed using the YOLO model.
 
